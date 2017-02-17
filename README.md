@@ -1,2 +1,4 @@
 # hello-world
-initialization to github
+#initialization to github
+I am finally conquering my fear of coding!!!
+hurray!!
